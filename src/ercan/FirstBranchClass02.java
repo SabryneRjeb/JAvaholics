@@ -7,6 +7,10 @@ public class FirstBranchClass02 {
         System.out.println("Javaholic");
         //Hello hello
         //do you see and hear me
+        //Justice League
+        //Superman
+        //Batman
+        //Wonder Woman
 
     }
 
